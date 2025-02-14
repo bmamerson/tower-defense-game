@@ -1,0 +1,15 @@
+D:\repo\tower-defense-game\bin\Debug\net9.0\tower-defense-game.exe
+D:\repo\tower-defense-game\bin\Debug\net9.0\tower-defense-game.deps.json
+D:\repo\tower-defense-game\bin\Debug\net9.0\tower-defense-game.runtimeconfig.json
+D:\repo\tower-defense-game\bin\Debug\net9.0\tower-defense-game.dll
+D:\repo\tower-defense-game\bin\Debug\net9.0\tower-defense-game.pdb
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.AssemblyInfoInputs.cache
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.AssemblyInfo.cs
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.csproj.CoreCompileInputs.cache
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.sourcelink.json
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.dll
+D:\repo\tower-defense-game\obj\Debug\net9.0\refint\tower-defense-game.dll
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.pdb
+D:\repo\tower-defense-game\obj\Debug\net9.0\tower-defense-game.genruntimeconfig.cache
+D:\repo\tower-defense-game\obj\Debug\net9.0\ref\tower-defense-game.dll
